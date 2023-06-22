@@ -16,7 +16,7 @@ My personal laboratory where Python constructs transform from mere theory into h
 ### 🎨 Project Portfolio
 A showcase of my Python projects - the result of my learnings put into action. They're a testament to Python's practical applications, brought to life through my creativity and understanding.
 
-### 💡 Problem Solving Saga
+### 💡 Problem-Solving Saga
 Here, I share intriguing coding puzzles that I've taken on, along with my Python-powered solutions. These tales tell the story of my problem-solving strategies and approaches.
 
 ### 🗺️ Resource Collection
@@ -33,4 +33,3 @@ All content in this repository is shared under the terms of the MIT license.
 So, welcome aboard my Python journey. Let's chart a course through the Python universe together, unraveling its mysteries one line of code at a time!
 ```
 
-This markdown script should work perfectly for a README.md file on GitHub. It aligns well with the explanation style used for the dice roll simulation script earlier.
