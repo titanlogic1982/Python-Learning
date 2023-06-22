@@ -53,4 +53,6 @@ if __name__ == "__main__":
 The `main()` function is called if the script is being run directly, allowing the script to be imported as a module in another script without automatically running the `main()` function.
 
 Sample output of graph:
-![image](https://github.com/titanlogic1982/Python-Learning/assets/114312639/e67216f7-de87-4b75-86f7-76c1766fdcb9)
+
+![image](https://github.com/titanlogic1982/Python-Learning/assets/114312639/d7cf7a10-88df-4a76-a841-1b67570e37cc)
+
