@@ -1,4 +1,3 @@
-```markdown
 # Python Journey: My Personal Exploration into Coding
 
 Hello, everyone! Welcome to my **Python Journey** repository, my very own chronicle of learning and exploration through the expansive world of Python programming. This isn't just a collection of Python scripts and notes - it's my evolving story of understanding, conquering challenges, celebrating breakthroughs, and the pure joy of unlocking the powers of Python.
