@@ -1,8 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-def roll_die(num_rolls):
-    # Remove the seed for more randomness
+def roll_die(num_rolls):   # Simple function to generate random numbers
     return np.random.randint(1, 7, size=num_rolls)
 
 def main():
